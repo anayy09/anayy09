@@ -1,6 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anay
 ============================================================================================================================
 
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 Front-End Developer wielding HTML, CSS, JS with finesse. Crafting intuitive UI/UX designs while mastering Python, Java, and beyond. Passionate about painting the digital canvas. Let's build the web, one pixel at a time.
 
 * 🌍  I'm based in Jaipur, India
