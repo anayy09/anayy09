@@ -29,7 +29,6 @@ Front-End Developer wielding HTML, CSS, JS with finesse. Crafting intuitive UI/U
 
 * 📝  I  write articles on [Hashnode](https://anay09.hashnode.dev/)
 
-* ☁️  I've keen interest in AI/ML. So,I'm learning **ML**
 
 ### Skills
 
