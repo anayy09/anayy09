@@ -17,7 +17,7 @@
   </ul>
 </div>
 
-Front-End Developer wielding HTML, CSS, JS with finesse. Crafting intuitive UI/UX designs while mastering Python, Java, and beyond. Passionate about painting the digital canvas. Let's build the web, one pixel at a time.
+As a frontend developer proficient in HTML, CSS, and JavaScript, I also have experience in learning and working with ReactJS, NodeJS, Java Spring Boot, and Zoho Creator. I possess knowledge of UI/UX principles and strive to create intuitive designs. In addition, I am passionate about the field of AI/ML. I am skilled in languages such as Python, Java, C, and C++. Together, let's embark on the journey of web development, painting the digital canvas one pixel at a time.
 
 * 🌍  I'm based in Jaipur, India
 
