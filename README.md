@@ -23,11 +23,7 @@ As a frontend developer proficient in HTML, CSS, and JavaScript, I also have exp
 
 * 📫  Feel free to reach me out [anay.sinhal@aol.com](mailto:anay.sinhal@aol.com)
 
-* 🚀  I'm currently working on [BudgetBuddy](http://github.com/anayy09/bb)
-
-* 🧠  I'm learning **ReactJS**, **Java Spring Boot**
-
-* 📝  I  write articles on [Hashnode](https://anay09.hashnode.dev/)
+* 📝  I  write articles on [CodeCanvas](http://codecanvas.tech/)
 
 
 ### Skills
