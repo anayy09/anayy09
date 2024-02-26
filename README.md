@@ -25,21 +25,19 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">About Me</h2></summary>
+    <summary><h2 style="display: inline-block"> 🚀 About Me</h2></summary>
   </ul>
 </div>
 
-As a frontend developer proficient in HTML, CSS, and JavaScript, I also have experience in learning and working with ReactJS, NodeJS, Java Spring Boot, and Zoho Creator. I possess knowledge of UI/UX principles and strive to create intuitive designs. In addition, I am passionate about the field of AI/ML. I am skilled in languages such as Python, Java, C, and C++. Together, let's embark on the journey of web development, painting the digital canvas one pixel at a time.
+I'm Anay Sinhal, a Full Stack Developer and AI/ML Enthusiast with a knack for UI/UX Design. Based in Jaipur, India, I blend innovative technology solutions with aesthetic designs to solve real-world problems. With a background in Computer Science from JKLU and hands-on experience at prestigious institutes like IIT Kanpur and IIT Gandhinagar, I'm passionate about simplifying complex challenges through code. Let's explore the limitless possibilities of technology together, creating impactful solutions one pixel at a time.
 
-* 🌍  I'm based in Jaipur, India
+When I'm not coding, you can find me stargazing, plotting my next travel destination, or delving into the fascinating world of geography. I believe in blending the art of programming with the wonders of our universe, making every line of code a journey rather than a task.
 
-* 📫  Feel free to reach me out [anay.sinhal@aol.com](mailto:anay.sinhal@aol.com)
+### 💻 Professional Experience
+- **Research Intern** at IIT Jammu (Remote), where I led a project on stress prediction using wearable sensor data, employing machine learning models to achieve high accuracy in real-time stress monitoring.
+- **Software Development Intern** at Dexpert Systems Pvt. Ltd, Pune, contributing to diverse software projects with technologies like Java Spring Boot, ReactJS, and PHP Laravel, enhancing my skills in real-time project execution and client communication.
 
-* 📝  I  write articles on [CodeCanvas](http://codecanvas.tech/)
-
-
-### Skills
-
+### 🛠 Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>&nbsp;&nbsp;&nbsp;
@@ -59,6 +57,11 @@ As a frontend developer proficient in HTML, CSS, and JavaScript, I also have exp
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
+### 📚 Projects
+- **Personal Portfolio** - A showcase of my journey, built with ReactJS and NodeJS. [View Project](https://github.com/anayy09/anaysinhal.me)
+- **Stress Prediction using Wearable Sensors** - A machine learning approach to stress monitoring. [View Project](https://github.com/anayy09/Stress-Prediction-using-Wearable-Sensors)
+- **IoT-Based Health Monitoring System** - Innovating healthcare with IoT technologies. [View Project](https://github.com/anayy09/IoT-Based-Health-Monitoring-System)
+- **PyFinance** - A Python toolkit for financial analysis and modeling. [View Project](https://github.com/anayy09/PyFinance)
 
 ### Socials
 
@@ -82,6 +85,12 @@ As a frontend developer proficient in HTML, CSS, and JavaScript, I also have exp
 </a>
 </div>
 <br>
+
+### 📫 How to Reach Me
+- **Email:** [anay.sinhal@aol.com](mailto:anay.sinhal@aol.com)
+- **LinkedIn:** [anaysinhal](https://www.linkedin.com/in/anaysinhal)
+- **GitHub:** [anayy09](https://github.com/anayy09)
+- **Website:** [anaysinhal.me](http://anaysinhal.me)
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
