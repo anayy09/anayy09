@@ -63,9 +63,12 @@ When I'm not coding, you can find me stargazing, plotting my next travel destina
 - **IoT-Based Health Monitoring System** - Innovating healthcare with IoT technologies. [View Project](https://github.com/anayy09/IoT-Based-Health-Monitoring-System)
 - **PyFinance** - A Python toolkit for financial analysis and modeling. [View Project](https://github.com/anayy09/PyFinance)
 
-### Socials
+### 📫 How to Reach Me
+- **Email:** [anay.sinhal29@gmail.com](mailto:anay.sinhal29@gmail.com)
+- **LinkedIn:** [anaysinhal](https://www.linkedin.com/in/anaysinhal)
+- **GitHub:** [anayy09](https://github.com/anayy09)
+- **Website:** [anaysinhal.me](http://anaysinhal.me)
 
-<p align="left"> <a href="https://www.github.com/anayy09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp; <a href="https://anay09.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp; <a href="http://www.instagram.com/_anay09_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/anaysinhal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp; <a href="https://www.twitter.com/_anaysinhal_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 <br>
 <p align="center">
     <a href="https://github.com/anayy09" target="_blank">
@@ -85,12 +88,6 @@ When I'm not coding, you can find me stargazing, plotting my next travel destina
 </a>
 </div>
 <br>
-
-### 📫 How to Reach Me
-- **Email:** [anay.sinhal@aol.com](mailto:anay.sinhal@aol.com)
-- **LinkedIn:** [anaysinhal](https://www.linkedin.com/in/anaysinhal)
-- **GitHub:** [anayy09](https://github.com/anayy09)
-- **Website:** [anaysinhal.me](http://anaysinhal.me)
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
