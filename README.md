@@ -23,14 +23,14 @@
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=anayy09&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/anayy09" target="_blank" style="display: inline-block; vertical-align: top;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=anayy09&&theme=github_dark&&hide_border=true" alt="anayy09" style="height: 200px;"/>
   </a>
   <a href="https://github.com/anayy09" target="_blank" style="display: inline-block; vertical-align: top;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anayy09&&theme=github_dark&&hide_border=true&&layout=compact" alt="anayy09" style="height: 200px;"/>
   </a>
-</p>
+</p> -->
 
 
 ## 🛠️ Skills
