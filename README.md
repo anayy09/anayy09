@@ -35,6 +35,7 @@
 
 ## 🛠️ Skills
 
+<div align="center">
 <p>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -61,6 +62,7 @@
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="WordPress" /></a>
 </p>
+</div>
 
 ## 📊 Stats
 
@@ -68,12 +70,15 @@
   <a href="https://github.com/anayy09"><img alt="Anay's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=anayy09&bg_color=000000&color=1f6feb&line=1f6feb&point=fefefe&area=true&hide_border=true&custom_title=Anay's%20Contribution%20Graph" style="height: 300px;"/></a>
 </p>
 
-<br/>
-
 ## 📫 Reach Me
-
-- **Email:** [anaysinhal.edu@gmail.com](mailto:anaysinhal.edu@gmail.com)
-- **LinkedIn:** [anaysinhal](https://www.linkedin.com/in/anaysinhal)
-- **Website:** [anaysinhal.me](http://anaysinhal.me)
-
-When I'm not coding, you can find me stargazing, plotting my next travel destination, or delving into the fascinating world of geography. I believe in blending the art of programming with the wonders of our universe, making every line of code a journey rather than a task.
+<div align="center">
+  <p>
+    <a href="https://www.linkedin.com/in/anaysinhal" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:anaysinhal.edu@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://instagram.com/_anay09_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://www.anaysinhal.me" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+    <a href="https://www.codecanvas.tech" target="_blank"><img alt="Blogs" src="https://img.shields.io/badge/codecanvas.tech-0088CC?style=for-the-badge&logo=codecanvas&logoColor=white" /></a>
+    <a href="https://leetcode.com/anay09" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/anay09" target="_blank"><img alt="GfG" src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  </p>
+</div>
