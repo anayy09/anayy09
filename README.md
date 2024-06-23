@@ -75,7 +75,6 @@
   <p>
     <a href="https://www.linkedin.com/in/anaysinhal" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:anaysinhal.edu@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://instagram.com/_anay09_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <a href="https://www.anaysinhal.me" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
     <a href="https://www.codecanvas.tech" target="_blank"><img alt="Blogs" src="https://img.shields.io/badge/codecanvas.tech-0088CC?style=for-the-badge&logo=codecanvas&logoColor=white" /></a>
     <a href="https://leetcode.com/anay09" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
