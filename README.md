@@ -70,7 +70,7 @@
   <a href="https://github.com/anayy09"><img alt="Anay's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=anayy09&bg_color=000000&color=1f6feb&line=1f6feb&point=fefefe&area=true&hide_border=true&custom_title=Anay's%20Contribution%20Graph" style="height: 300px;"/></a>
 </p>
 
-## 📫 Reach Me
+## 📫 Contact Me
 <div align="center">
   <p>
     <a href="https://www.linkedin.com/in/anaysinhal" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
