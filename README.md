@@ -42,17 +42,17 @@
 </div>
 
 <div align="center">
-  <img width="77%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anayy09&theme=tokyonight" alt="Profile Summary" />
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anayy09&theme=tokyonight" alt="Profile Summary" />
 </div>
 
 <div align="center">
-  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anayy09&theme=tokyonight" alt="Repos per Language" />
-  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anayy09&theme=tokyonight" alt="Most Commit Language" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anayy09&theme=tokyonight" alt="Repos per Language" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anayy09&theme=tokyonight" alt="Most Commit Language" />
 </div>
 
 <div align="center">
-  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anayy09&theme=tokyonight" alt="Stats" />
-  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anayy09&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anayy09&theme=tokyonight" alt="Stats" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anayy09&theme=tokyonight&utcOffset=8" alt="Productive Time" />
 </div>
 
 ## 🛠️ Tech Stack & Tools
