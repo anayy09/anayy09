@@ -15,8 +15,6 @@
   
 </div>
 
----
-
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
@@ -34,24 +32,28 @@
 - 💬 Ask me about React, Node.js, Python, or Machine Learning
 - 📫 Reach me at: **sinhal.anay@ufl.edu**
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anayy09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anayy09&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+  
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anayy09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="160" src="https://streak-stats.demolab.com?user=anayy09&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anayy09&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="77%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anayy09&theme=tokyonight" alt="Profile Summary" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anayy09&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph"/>
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anayy09&theme=tokyonight" alt="Repos per Language" />
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anayy09&theme=tokyonight" alt="Most Commit Language" />
 </div>
 
----
+<div align="center">
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anayy09&theme=tokyonight" alt="Stats" />
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anayy09&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+</div>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -109,8 +111,6 @@
 
 </div>
 
----
-
 ## 🎯 Areas of Expertise
 
 <table align="center">
@@ -136,8 +136,6 @@ Deploying scalable applications using AWS, Docker, and CI/CD pipelines
 </tr>
 </table>
 
----
-
 ## 📈 My Journey
 
 ```mermaid
@@ -157,8 +155,6 @@ timeline
                  : Cloud architecture expertise
                  : Building innovative solutions
 ```
-
----
 
 *📖 Check out my [blog](https://anay09.hashnode.dev) for more insights on technology and development!*
 
