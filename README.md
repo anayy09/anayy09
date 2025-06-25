@@ -160,29 +160,11 @@ timeline
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 *📖 Check out my [blog](https://anay09.hashnode.dev) for more insights on technology and development!*
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaysinhal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_my_work-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://www.anay.live)
-[![Email](https://img.shields.io/badge/Email-Let's_collaborate-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaysinhal.edu@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-Read_my_articles-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://anay09.hashnode.dev)
 
 ### 💭 "Code is poetry written for machines to understand and humans to admire"
 
 </div>
-
----
 
 <div align="center">
   <picture>
@@ -191,8 +173,6 @@ timeline
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
-
----
 
 <div align="center">
   
