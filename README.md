@@ -10,7 +10,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaysinhal)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://www.anay.live)
-  [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaysinhal.edu@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinhal.anay@ufl.edu)
   [![Blog](https://img.shields.io/badge/Blog-Read-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://anay09.hashnode.dev)
   
 </div>
@@ -32,7 +32,7 @@
 - 🌱 Learning advanced cloud technologies (AWS, GCP)
 - 👯 Looking to collaborate on open-source projects
 - 💬 Ask me about React, Node.js, Python, or Machine Learning
-- 📫 Reach me at: **anaysinhal.edu@gmail.com**
+- 📫 Reach me at: **sinhal.anay@ufl.edu**
 
 ---
 
@@ -111,26 +111,6 @@
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-### 🚀 [Project Name 1](https://github.com/anayy09/project1)
-**Full-Stack Web Application** | React • Node.js • MongoDB  
-A comprehensive web application with real-time features and modern UI/UX design.
-
-### 🤖 [AI/ML Project](https://github.com/anayy09/ml-project)
-**Machine Learning Application** | Python • TensorFlow • scikit-learn  
-Advanced machine learning model for predictive analytics with high accuracy.
-
-### 📱 [Mobile App](https://github.com/anayy09/mobile-app)
-**Cross-Platform Mobile App** | Flutter • Dart • Firebase  
-Beautiful and responsive mobile application with cloud integration.
-
-</div>
-
----
-
 ## 🎯 Areas of Expertise
 
 <table align="center">
@@ -164,16 +144,15 @@ Deploying scalable applications using AWS, Docker, and CI/CD pipelines
 timeline
     title Anay's Tech Journey
     
-    2019-2023 : Computer Science @ University of Florida
-              : Strong foundation in algorithms & data structures
+    2019-2021 : Strong foundation in algorithms & data structures
               : Explored various programming languages
     
-    2021-2022 : Internships & Projects
+    2021-2024 : Internships & Projects
               : Gained industry experience
               : Built full-stack applications
               : Contributed to open source
     
-    2023-Present : Professional Development
+    2025-Present : Master's Degree in Computer Science
                  : Advanced ML & AI exploration
                  : Cloud architecture expertise
                  : Building innovative solutions
@@ -204,8 +183,6 @@ timeline
 </div>
 
 ---
-
-## 🎨 GitHub Contribution Snake
 
 <div align="center">
   <picture>
