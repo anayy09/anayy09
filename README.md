@@ -28,7 +28,6 @@
 - Conducting research in AI-driven healthcare diagnostics
 - Exploring quantum computing applications in biomedical research
 - Building scalable AI applications with Next.js, PyTorch, and cloud technologies
-- Reach me at: **sinhal.anay@ufl.edu**
 
 ## 📊 GitHub Analytics
 
