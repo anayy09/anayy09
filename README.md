@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 🎓 **M.S. Computer Science Student** at the University of Florida  
 💼 **AI/ML Researcher** specializing in healthcare diagnostics and medical imaging  
