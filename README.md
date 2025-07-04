@@ -29,7 +29,7 @@
 - Exploring quantum computing applications in biomedical research
 - Building scalable AI applications with Next.js, PyTorch, and cloud technologies
 
-## 📊 GitHub Analytics
+##
 
 <div align="center">
 
@@ -42,14 +42,11 @@
 </td>
 <td align="center" width="50%">
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anayy09&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+<img height="180" src="https://streak-stats.demolab.com?user=anayy09&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 
 </td>
 </tr>
 </table>
-
-<img width="50%" src="https://streak-stats.demolab.com?user=anayy09&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-
 </div>
 
 ## 🛠️ Tech Stack & Tools
@@ -176,8 +173,6 @@ timeline
 ```
 
 *📖 Check out my [blog](https://anay09.hashnode.dev) for more insights on technology and development!*
-
-### 💭 "Code is poetry written for machines to understand and humans to admire"
 
 </div>
 
