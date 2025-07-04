@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Anay%20Sinhal&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Graduate%20•%20Full-Stack%20Engineer%20•%20ML%20Enthusiast&descAlignY=51&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Anay%20Sinhal&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Graduate%20•%20Full-Stack%20Engineer%20•%20ML%20Enthusiast&descAlignY=58&descAlign=50" />
 </div>
 
 <p align="center">
@@ -19,95 +19,108 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-🎓 **Computer Science Graduate** from the University of Florida  
-💼 **Full-Stack Engineer** with expertise in modern web technologies  
-🤖 **Machine Learning Enthusiast** exploring AI/ML applications  
-🌱 Currently diving deep into **Cloud Architecture** and **DevOps**  
-⚡ Fun fact: I love turning coffee into code and ideas into reality!
+🎓 **M.S. Computer Science Student** at the University of Florida  
+💼 **AI/ML Researcher** specializing in healthcare diagnostics and medical imaging  
+🤖 **Full-Stack Engineer** with proven industry experience at GeeksforGeeks  
+🌱 **Published Researcher** with 4+ papers and 1 patent in AI-driven healthcare  
+⚡ Fun fact: I turn complex research problems into scalable solutions!
 
 ### 🎯 What I'm up to:
-- 🔭 Working on innovative full-stack applications
-- 🌱 Learning advanced cloud technologies (AWS, GCP)
-- 👯 Looking to collaborate on open-source projects
-- 💬 Ask me about React, Node.js, Python, or Machine Learning
-- 📫 Reach me at: **sinhal.anay@ufl.edu**
+- Conducting cutting-edge research in AI-driven healthcare diagnostics
+- Developing medical image enhancement and depression detection systems
+- Publishing research in top-tier IEEE conferences and Springer journals
+- Building scalable AI applications with Next.js, PyTorch, and cloud technologies
+- Exploring quantum computing applications in biomedical research
+- Reach me at: **sinhal.anay@ufl.edu**
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anayy09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="160" src="https://streak-stats.demolab.com?user=anayy09&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 
-</div>
+<table>
+<tr>
+<td align="center" width="50%">
 
-<div align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anayy09&theme=tokyonight" alt="Profile Summary" />
-</div>
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anayy09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<div align="center">
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anayy09&theme=tokyonight" alt="Repos per Language" />
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anayy09&theme=tokyonight" alt="Most Commit Language" />
-</div>
+</td>
+<td align="center" width="50%">
 
-<div align="center">
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anayy09&theme=tokyonight" alt="Stats" />
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anayy09&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anayy09&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
+
+<img width="50%" src="https://streak-stats.demolab.com?user=anayy09&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+
 </div>
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<table>
+<tr>
+<td align="center" width="50%">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**💻 Languages**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+**🎨 Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**⚙️ Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
-### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+</td>
+<td align="center" width="50%">
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+**🗄️ Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**🤖 AI/ML**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+
+**☁️ DevOps & Cloud**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+**🛠️ Tools**  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -117,20 +130,20 @@
 <tr>
 <td align="center" width="33%">
 
-**🌐 Full-Stack Development**
-Building end-to-end web applications with modern frameworks and best practices
+**💼 AI-Driven Healthcare**
+Developing intelligent diagnostic systems, medical image enhancement, and mental health analytics using deep learning
 
 </td>
 <td align="center" width="33%">
 
-**🤖 Machine Learning**
-Developing intelligent systems using TensorFlow, PyTorch, and advanced algorithms
+**🔬 Research & Development**
+Publishing cutting-edge research in ML/AI, with expertise in contrastive learning and multimodal systems
 
 </td>
 <td align="center" width="33%">
 
-**☁️ Cloud & DevOps**
-Deploying scalable applications using AWS, Docker, and CI/CD pipelines
+**🌐 Full-Stack Engineering**
+Building scalable applications with modern frameworks, cloud deployment, and high-performance architectures
 
 </td>
 </tr>
@@ -142,18 +155,28 @@ Deploying scalable applications using AWS, Docker, and CI/CD pipelines
 timeline
     title Anay's Tech Journey
     
-    2019-2021 : Strong foundation in algorithms & data structures
+    2019-2021 : Foundation Years
+              : Strong foundation in algorithms & data structures
               : Explored various programming languages
+              : Started B.Tech Computer Science & Engineering
     
-    2021-2024 : Internships & Projects
-              : Gained industry experience
-              : Built full-stack applications
-              : Contributed to open source
+    2022-2023 : Academic Excellence & Leadership
+              : Semester exchange at IIT Gandhinagar (Fall 2022)
+              : Core Coordinator at PrauduyoGeek Techfest
+              : Student Placement Coordinator role
+              : First industry internship at Dexpert Systems
     
-    2025-Present : Master's Degree in Computer Science
-                 : Advanced ML & AI exploration
-                 : Cloud architecture expertise
-                 : Building innovative solutions
+    2024 : Research & Industry Focus
+         : Semester exchange at IIT Kanpur (Spring 2024)
+         : Research internships at IIT Jammu & SVNIT Surat
+         : Software Development Intern at GeeksforGeeks
+         : Research Assistant at IIIT Delhi
+    
+    2025-Present : Graduate Studies & Innovation
+                 : M.S. Computer Science at University of Florida
+                 : Published 4+ research papers & 1 patent filed
+                 : Advanced projects in AI, ML & distributed systems
+                 : Building cutting-edge solutions in healthcare AI
 ```
 
 *📖 Check out my [blog](https://anay09.hashnode.dev) for more insights on technology and development!*
