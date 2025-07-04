@@ -23,14 +23,11 @@
 💼 **AI/ML Researcher** specializing in healthcare diagnostics and medical imaging  
 🤖 **Full-Stack Engineer** with proven industry experience at GeeksforGeeks  
 🌱 **Published Researcher** with 4+ papers and 1 patent in AI-driven healthcare  
-⚡ Fun fact: I turn complex research problems into scalable solutions!
 
 ### 🎯 What I'm up to:
-- Conducting cutting-edge research in AI-driven healthcare diagnostics
-- Developing medical image enhancement and depression detection systems
-- Publishing research in top-tier IEEE conferences and Springer journals
-- Building scalable AI applications with Next.js, PyTorch, and cloud technologies
+- Conducting research in AI-driven healthcare diagnostics
 - Exploring quantum computing applications in biomedical research
+- Building scalable AI applications with Next.js, PyTorch, and cloud technologies
 - Reach me at: **sinhal.anay@ufl.edu**
 
 ## 📊 GitHub Analytics
