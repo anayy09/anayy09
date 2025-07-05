@@ -148,28 +148,21 @@ Building scalable applications with modern frameworks, cloud deployment, and hig
 timeline
     title Anay's Tech Journey
     
-    2019-2021 : Foundation Years
-              : Strong foundation in algorithms & data structures
-              : Explored various programming languages
+    2019-2021 : Explored various programming languages
               : Started B.Tech Computer Science & Engineering
     
-    2022-2023 : Academic Excellence & Leadership
-              : Semester exchange at IIT Gandhinagar (Fall 2022)
-              : Core Coordinator at PrauduyoGeek Techfest
-              : Student Placement Coordinator role
+    2022-2023 : Semester exchange at IIT Gandhinagar (Fall 2022)
               : First industry internship at Dexpert Systems
     
-    2024 : Research & Industry Focus
-         : Semester exchange at IIT Kanpur (Spring 2024)
+    2024 : Semester exchange at IIT Kanpur (Spring 2024)
          : Research internships at IIT Jammu & SVNIT Surat
          : Software Development Intern at GeeksforGeeks
          : Research Assistant at IIIT Delhi
+
     
-    2025-Present : Graduate Studies & Innovation
-                 : M.S. Computer Science at University of Florida
-                 : Published 4+ research papers & 1 patent filed
-                 : Advanced projects in AI, ML & distributed systems
-                 : Building cutting-edge solutions in healthcare AI
+    2025 : M.S. Computer Science at University of Florida
+         : Published 4+ research papers & 1 patent filed
+
 ```
 
 *📖 Check out my [blog](https://anay09.hashnode.dev) for more insights on technology and development!*
