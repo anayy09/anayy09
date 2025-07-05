@@ -165,8 +165,6 @@ timeline
 
 ```
 
-*📖 Check out my [blog](https://anay09.hashnode.dev) for more insights on technology and development!*
-
 </div>
 
 <div align="center">
