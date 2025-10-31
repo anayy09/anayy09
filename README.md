@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Anay%20Sinhal&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Graduate%20•%20Full-Stack%20Engineer%20•%20ML%20Enthusiast&descAlignY=58&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Anay%20Sinhal&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Graduate%20CS%20Student%20•%20AI/ML%20Researcher%20•%20Healthcare%20AI%20Enthusiast&descAlignY=58&descAlign=50" />
 </div>
 
 <p align="center">
@@ -19,15 +19,16 @@
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-🎓 **M.S. Computer Science Student** at the University of Florida  
-💼 **AI/ML Researcher** specializing in healthcare diagnostics and medical imaging  
-🤖 **Full-Stack Engineer** with proven industry experience at GeeksforGeeks  
-🌱 **Published Researcher** with 4+ papers and 1 patent in AI-driven healthcare  
+🎓 **M.S. Computer Science Student** at the University of Florida (Spring 2025)  
+💼 **Graduate Student Assistant** at IC3 (Intelligent Clinical Care Center), UF  
+🤖 **AI/ML Researcher** specializing in healthcare diagnostics, medical imaging & NLP  
+🌱 **Published Researcher** with 2 journal papers and 2 patent applications  
 
 ### 🎯 What I'm up to:
-- Conducting research in AI-driven healthcare diagnostics
-- Exploring quantum computing applications in biomedical research
-- Building scalable AI applications with Next.js, PyTorch, and cloud technologies
+- Developing scalable data pipelines for large-scale health datasets at IC3
+- Building AI-powered clinical decision support systems for sepsis detection & medical diagnostics
+- Engineering full-stack healthcare applications with Next.js, FastAPI, Django, and cloud technologies
+- Researching contrastive learning, LLM fine-tuning, and multimodal medical AI
 
 ##
 
@@ -148,20 +149,19 @@ Building scalable applications with modern frameworks, cloud deployment, and hig
 timeline
     title Anay's Tech Journey
     
-    2019-2021 : Explored various programming languages
-              : Started B.Tech Computer Science & Engineering
-    
-    2022-2023 : Semester exchange at IIT Gandhinagar (Fall 2022)
-              : First industry internship at Dexpert Systems
+    2021-2023 : Started B.Tech CSE at JK Lakshmipat University
+              : Semester exchange at IIT Gandhinagar (Fall 2022)
+              : Software Development Intern at Dexpert Systems
     
     2024 : Semester exchange at IIT Kanpur (Spring 2024)
          : Research internships at IIT Jammu & SVNIT Surat
          : Software Development Intern at GeeksforGeeks
          : Research Assistant at IIIT Delhi
-
     
-    2025 : M.S. Computer Science at University of Florida
-         : Published 4+ research papers & 1 patent filed
+    2025 : Graduated B.Tech CSE (CGPA: 8.76/10)
+         : Started M.S. in CISE at University of Florida (Spring 2025)
+         : Graduate Student Assistant at IC3, UF
+         : Published 2 journal papers & filed 2 patent applications
 
 ```
 
