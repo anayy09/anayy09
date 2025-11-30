@@ -9,7 +9,7 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaysinhal)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://www.anay.live)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://www.anay.codes)
   [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinhal.anay@ufl.edu)
   [![Blog](https://img.shields.io/badge/Blog-Read-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://anay09.hashnode.dev)
   
@@ -19,10 +19,10 @@
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-🎓 **M.S. Computer Science Student** at the University of Florida (Spring 2025)  
+🎓 **M.S. Computer Science Student** at the University of Florida
 💼 **Graduate Student Assistant** at IC3 (Intelligent Clinical Care Center), UF  
 🤖 **AI/ML Researcher** specializing in healthcare diagnostics, medical imaging & NLP  
-🌱 **Published Researcher** with 2 journal papers and 2 patent applications  
+🌱 **Published Researcher** with 3 papers and 2 patent applications  
 
 ### 🎯 What I'm up to:
 - Developing scalable data pipelines for large-scale health datasets at IC3
@@ -161,7 +161,7 @@ timeline
     2025 : Graduated B.Tech CSE (CGPA: 8.76/10)
          : Started M.S. in CISE at University of Florida (Spring 2025)
          : Graduate Student Assistant at IC3, UF
-         : Published 2 journal papers & filed 2 patent applications
+         : Published 3 papers & filed 2 patent applications
 
 ```
 
