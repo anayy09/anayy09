@@ -1,186 +1,157 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Anay%20Sinhal&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Graduate%20CS%20Student%20•%20AI/ML%20Researcher%20•%20Healthcare%20AI%20Enthusiast&descAlignY=58&descAlign=50" />
-</div>
+<!--
+  Design Philosophy
+  =================
+  Aesthetic: Apple × NASA × research lab — minimal, typographic, precise.
+  Optimized for GitHub dark mode. Zero external dependencies.
+  Every section earns its place. Nothing is filler.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+Innovative+Solutions;Full-Stack+%26+ML+Engineer;Passionate+Problem+Solver;Always+Learning+%26+Growing" alt="Typing animation" />
-</p>
+  Intentionally removed:
+  - Animated headers, typing SVGs, waving banners (generic template look)
+  - Badge walls and shields.io icons (visual noise, no signal)
+  - GitHub stats / streak / contribution snake (vanity metrics)
+  - Profile view / star / follower counters (low signal)
+  - Stock GIFs and decorative images (unrelated clutter)
+  - Emoji-prefixed section headers (unprofessional)
+  - Tech stack badge grid (every developer has this)
+  - Mermaid timeline (better conveyed through prose)
+  - Skill bars / progress meters (cliché, meaningless)
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaysinhal)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://www.anay.codes)
-  [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinhal.anay@ufl.edu)
-  [![Blog](https://img.shields.io/badge/Blog-Read-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://anay09.hashnode.dev)
-  
-</div>
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-🎓 **M.S. Computer Science Student** at the University of Florida
-💼 **Graduate Student Assistant** at IC3 (Intelligent Clinical Care Center), UF  
-🤖 **AI/ML Researcher** specializing in healthcare diagnostics, medical imaging & NLP  
-🌱 **Published Researcher** with 3 papers and 2 patent applications  
-
-### 🎯 What I'm up to:
-- Developing scalable data pipelines for large-scale health datasets at IC3
-- Building AI-powered clinical decision support systems for sepsis detection & medical diagnostics
-- Engineering full-stack healthcare applications with Next.js, FastAPI, Django, and cloud technologies
-- Researching contrastive learning, LLM fine-tuning, and multimodal medical AI
-
-##
+  Why each section exists:
+  - Hero: Identity signal. Name + domain + affiliation. No ambiguity.
+  - Intro paragraph: The "so what" — positioning, current work, credibility.
+  - Now: Shows momentum. Recruiters and collaborators care about present work.
+  - Selected Work: 4 curated projects showing depth across clinical AI domains.
+  - Publications: Research credibility. Venues and DOIs matter.
+  - Patents: IP generation capability — rare for early-career researchers.
+  - Stack: Actual tool fluency, grouped by domain. Not a badge collection.
+  - Education: Institutional credibility + distinction, kept compact.
+  - Connect: Clean access points at the end. No "reach out to me!" energy.
+-->
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+# Anay Sinhal
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anayy09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+**Clinical AI · Multimodal Learning · Health Data Infrastructure**
 
-</td>
-<td align="center" width="50%">
+<br>
 
-<img height="180" src="https://streak-stats.demolab.com?user=anayy09&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+M.S. Computer Science · [University of Florida](https://www.cise.ufl.edu/)
+<br>
+Graduate Student Assistant · [PRISMAp Lab / IC3](https://ic3.center.ufl.edu/) · College of Medicine
 
-</td>
-</tr>
-</table>
+<br>
+
+[sinhal.anay@ufl.edu](mailto:sinhal.anay@ufl.edu) · [LinkedIn](https://www.linkedin.com/in/anaysinhal) · [anay.codes](https://www.anay.codes/) · [ORCID](https://orcid.org/0009-0008-8328-2336)
+
 </div>
 
-## 🛠️ Tech Stack & Tools
+<br>
+
+I build systems at the intersection of clinical medicine and machine learning — EHR time-series modeling, multimodal representation learning for medical imaging, and explainable clinical prediction. My focus is on making healthcare data computable and medical AI trustworthy, with attention to the full path from raw clinical data to deployable, interpretable infrastructure.
+
+Currently at UF's Intelligent Clinical Care Center, developing social determinants of health data pipelines, pathology image de-identification systems, and clinical phenotyping workflows for multi-site research.
+
+7 peer-reviewed publications · 3 patent applications · Gold Medal, B.Tech CSE
+
+---
+
+### now
+
+At IC3 / PRISMAp Lab, College of Medicine, University of Florida:
+
+- Designing SDoH linkage pipelines integrating multi-year indices (SVI, ADI, SDI, EJI) with hierarchical geocoding for a clinical data consortium; automating execution via scheduled Azure Container Apps jobs
+- Building a pathology slide de-identification system for whole-slide images using ResNet/MobileNet text detection and PaddleOCR, with SLURM-based batch automation on HiPerGator and React audit dashboards
+- Contributing to AKI phenotyping, clinical notes embeddings, and data cleaning pipelines; standardizing reproducible HPC preprocessing workflows and documentation across concurrent studies
+
+---
+
+### selected work
+
+**[EHR Timeline Triage](https://github.com/anayy09/EHR-Timeline-Triage)** · `PyTorch` `FastAPI` `Next.js` `DuckDB` `Docker`
+<br>
+Bins longitudinal EHR events into 4-hour temporal windows and trains comparative models (Logistic Regression, GRU, Transformer) for 30-day readmission and 48-hour ICU mortality prediction. Evaluated with AUROC, AUPRC, Brier score, and calibration diagnostics. Interactive timeline UI surfaces risk trajectories and feature attribution explanations.
+
+**[Radiology Copilot](https://github.com/anayy09/Radiology-Copilot)** · `PyTorch` `MONAI` `ClinicalBERT` `FastAPI` `Next.js`
+<br>
+CLIP-style multimodal chest X-ray system — ViT image encoder contrastively paired with ClinicalBERT text encoder for multi-label finding detection with calibrated uncertainty estimates. Integrated Grad-CAM saliency overlays, AI-drafted radiology reports, and a PostgreSQL-backed study workflow with full lifecycle tracking.
+
+**[Sepsis Sentinel](https://github.com/anayy09/Sepsis-Sentinel)** · `XGBoost` `LightGBM` `SHAP` `FastAPI` `React`
+<br>
+Early sepsis detection from EHR data achieving AUROC 0.89 on validation cohorts, simulating 4-hour earlier detection compared to standard alerting windows. SHAP-based feature attribution enables per-patient risk explanation. Real-time monitoring dashboard with WebSocket streaming for live risk tracking across active patients.
+
+**[WardOps](https://github.com/anayy09/WardOps)** · `FastAPI` `Next.js` `PostgreSQL` `Redis` `Celery`
+<br>
+Hospital operations digital twin combining discrete-event simulation with an LLM copilot using function calling for natural-language scenario queries. Sankey flow diagrams, bottleneck heatmaps, and side-by-side what-if comparisons for patient flow modeling and capacity planning.
+
+---
+
+### publications
+
+**Stress Monitoring in Healthcare: An Ensemble ML Framework Using Wearable Sensor Data**
+<br>
+Springer · _Innovations in Computational Intelligence & Computer Vision_, 2026 · [doi:10.1007/978-3-032-14757-8_12](https://doi.org/10.1007/978-3-032-14757-8_12)
+
+**High-Performance & Quantum Computing in Cancer Modeling: A Review & Hybrid HPC-Quantum Approach**
+<br>
+_International Journal of Advances in Signal & Image Sciences_, 2026 · [doi:10.29284/bfq8ev64](https://doi.org/10.29284/bfq8ev64)
+
+**Contrastive Learning & Large Language Models for Depression Detection from Social Media**
+<br>
+IEEE · _International Conference on Contemporary Computing & Communications_, 2025 · [doi:10.1109/InC465408.2025.11256322](https://doi.org/10.1109/InC465408.2025.11256322)
+
+**Optimizing Diagnostic Accuracy in Healthcare by Using Deep Learning**
+<br>
+IEEE · _4th World Conference on Applied Intelligence & Computing_, 2025 · [doi:10.1109/AIC66080.2025.11211920](https://doi.org/10.1109/AIC66080.2025.11211920)
+
+**LoRA-Tuned Segment Anything Model for Few-Shot Polyp Segmentation in Colonoscopy Images**
+<br>
+_Journal of Carcinogenesis_, 2025 · [doi:10.64149/J.Carcinog.24.3.372-386](https://doi.org/10.64149/J.Carcinog.24.3.372-386)
+
+---
+
+### patents
+
+**Bio-Inspired Adaptive Task Offloading System for Energy-Efficient IoT-Edge-Cloud Healthcare Continuum**
+<br>
+Indian Patent Application No. 202611027418 · Published May 2026
+
+**Disaster-Resilient Digital File Dissemination via Fountain-Coded Broadcast with Super-Peer Election & Sparse Acknowledgement**
+<br>
+Indian Patent Application No. 202511063465 · Published July 2025
+
+**Stress Monitoring System Using Wearable Sensor Data Integrated with an Ensemble Machine Learning Model**
+<br>
+Indian Patent Application No. 202511044124 · Published May 2025
+
+---
+
+### stack
+
+**AI / ML** — PyTorch · TensorFlow · scikit-learn · Hugging Face Transformers · contrastive learning · LLM fine-tuning · SHAP · Grad-CAM · computer vision · NLP
+
+**Data & Infrastructure** — PostgreSQL · MongoDB · Redis · DuckDB · Docker · Azure · AWS · SLURM / HiPerGator · CI/CD · ETL pipelines
+
+**Software** — Python · Java · TypeScript · Go · C++ · Bash
+
+**Web & APIs** — FastAPI · Django · Next.js · React · Node.js · Spring Boot
+
+---
+
+### education
+
+**University of Florida** — M.S. Computer & Information Science & Engineering, 2025 – present
+<br>
+Graduate coursework began during CISE Senior Certificate Program, Spring 2025.
+
+**JK Lakshmipat University** — B.Tech. Computer Science & Engineering, 2021 – 2025
+<br>
+Gold Medal (Dr. Kavita Choudhary Award for Best Outgoing Student in B.Tech CSE). Semester exchanges at **IIT Kanpur** (Spring 2024) and **IIT Gandhinagar** (Fall 2022). Best Innovator Award, Manipal University Jaipur.
+
+---
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+*Building clinical AI that earns trust through transparency.*
 
-**💻 Languages**  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-**🎨 Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**⚙️ Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-**🗄️ Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**🤖 AI/ML**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
-
-**☁️ DevOps & Cloud**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-**🛠️ Tools**  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-## 🎯 Areas of Expertise
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-**💼 AI-Driven Healthcare**
-Developing intelligent diagnostic systems, medical image enhancement, and mental health analytics using deep learning
-
-</td>
-<td align="center" width="33%">
-
-**🔬 Research & Development**
-Publishing cutting-edge research in ML/AI, with expertise in contrastive learning and multimodal systems
-
-</td>
-<td align="center" width="33%">
-
-**🌐 Full-Stack Engineering**
-Building scalable applications with modern frameworks, cloud deployment, and high-performance architectures
-
-</td>
-</tr>
-</table>
-
-## 📈 My Journey
-
-```mermaid
-timeline
-    title Anay's Tech Journey
-    
-    2021-2023 : Started B.Tech CSE at JK Lakshmipat University
-              : Semester exchange at IIT Gandhinagar (Fall 2022)
-              : Software Development Intern at Dexpert Systems
-    
-    2024 : Semester exchange at IIT Kanpur (Spring 2024)
-         : Research internships at IIT Jammu & SVNIT Surat
-         : Software Development Intern at GeeksforGeeks
-         : Research Assistant at IIIT Delhi
-    
-    2025 : Graduated B.Tech CSE (CGPA: 8.76/10)
-         : Started M.S. in CISE at University of Florida (Spring 2025)
-         : Graduate Student Assistant at IC3, UF
-         : Published 3 papers & filed 2 patent applications
-
-```
-
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=anayy09&style=for-the-badge&color=brightgreen)
-  ![Stars](https://img.shields.io/github/stars/anayy09?style=for-the-badge&color=yellow)
-  ![Followers](https://img.shields.io/github/followers/anayy09?style=for-the-badge&color=blue)
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" alt="Footer" />
-  
 </div>
