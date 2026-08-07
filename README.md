@@ -2,7 +2,7 @@
 
 # Anay Sinhal
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=3400&pause=1200&color=8B949E&center=true&vCenter=true&width=560&lines=making+clinical+data+computable;making+model+behavior+verifiable;calibration+before+accuracy" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=3200&pause=1200&color=8B949E&center=true&vCenter=true&width=560&lines=making+clinical+data+computable;making+model+behavior+verifiable;calibration+before+accuracy" />
 
 <br>
 
