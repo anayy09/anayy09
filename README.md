@@ -31,7 +31,7 @@ reading   selective prediction · conformal risk control · distribution shift
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anayy09&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=8B949E&icon_color=58A6FF&include_all_commits=true&count_private=true&hide=issues" />
+<!-- <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anayy09&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=8B949E&icon_color=58A6FF&include_all_commits=true&count_private=true&hide=issues" /> -->
 <img height="150" src="https://streak-stats.demolab.com?user=anayy09&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 
 <picture>
